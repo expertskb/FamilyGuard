@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "last_updated": "2026-03-31",
+
+  "blocked_apps": [
+    "com.dts.freefireth",
+    "com.pubg.mobile",
+    "com.tencent.ig",
+    "com.activision.callofduty.shooter",
+    "com.supercell.clashofclans",
+    "com.supercell.clashroyale",
+    "com.epicgames.fortnite",
+    "com.roblox.client",
+    "com.mojang.minecraftpe",
+    "com.mobile.legends"
+  ],
+
+  "blocked_sites": [
+    "pornhub.com",
+    "xvideos.com",
+    "xnxx.com",
+    "xhamster.com",
+    "redtube.com",
+    "youporn.com",
+    "spankbang.com",
+    "tube8.com",
+    "beeg.com",
+    "porn.com",
+
+    "rule34.xxx",
+    "hentaihaven.xxx",
+    "nhentai.net",
+    "hanime.tv",
+
+    "adultfriendfinder.com",
+    "livejasmin.com"
+  ],
+
+  "app_limits": {
+    "com.instagram.android": 45,
+    "com.facebook.katana": 60,
+    "com.tiktok": 30,
+    "com.youtube": 60
+  },
+
+  "settings": {
+    "block_new_apps": false,
+    "enable_strict_mode": true,
+    "block_vpn_apps": true
+  }
+}
