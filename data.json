@@ -15,27 +15,6 @@
     "com.mobile.legends"
   ],
 
-  "blocked_sites": [
-    "pornhub.com",
-    "xvideos.com",
-    "xnxx.com",
-    "xhamster.com",
-    "redtube.com",
-    "youporn.com",
-    "spankbang.com",
-    "tube8.com",
-    "beeg.com",
-    "porn.com",
-
-    "rule34.xxx",
-    "hentaihaven.xxx",
-    "nhentai.net",
-    "hanime.tv",
-
-    "adultfriendfinder.com",
-    "livejasmin.com"
-  ],
-
   "app_limits": {
     "com.instagram.android": 45,
     "com.facebook.katana": 60,
