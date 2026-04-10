@@ -1,8 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-31",
-
-  "blocked_apps": [
+  "lastUpdated": "2026-04-10",
+  "blockedApps": [
     "com.dts.freefireth",
     "com.pubg.mobile",
     "com.tencent.ig",
@@ -14,17 +13,5 @@
     "com.mojang.minecraftpe",
     "com.mobile.legends"
   ],
-
-  "app_limits": {
-    "com.instagram.android": 45,
-    "com.facebook.katana": 60,
-    "com.tiktok": 30,
-    "com.youtube": 60
-  },
-
-  "settings": {
-    "block_new_apps": false,
-    "enable_strict_mode": true,
-    "block_vpn_apps": true
-  }
+  "blockedSites": []
 }
